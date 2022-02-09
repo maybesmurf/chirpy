@@ -56,7 +56,7 @@
     "@tiptap/react": "2.0.0-beta.106",
     "@tiptap/starter-kit": "2.0.0-beta.168",
     "canvas-confetti": "1.4.0",
-    "chart.js": "3.6.2",
+    "chart.js": "3.7.0",
     "cors": "2.8.5",
     "csstype": "3.0.10",
     "d3": "3.5.17",
